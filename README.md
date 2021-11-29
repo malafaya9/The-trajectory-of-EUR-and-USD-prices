@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/malafaya9/The-trajectory-of-EUR-and-USD-prices/blob/0e0d1957d1a611abd27d9fd76f457945fad94fc5/graph.png?raw=true)
+![Result Graph](image/graph.png)
 
 # From FHC to now: The trajectory of Euro and Dollar prices
 
